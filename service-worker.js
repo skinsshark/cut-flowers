@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cut-flowers/precache-manifest.ae031a8c6350584413d37c719558c874.js"
+  "/cut-flowers/precache-manifest.7a3dd30e0bd55c0ccdc5f27d8413ae28.js"
 );
 
 self.addEventListener('message', (event) => {
