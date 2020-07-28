@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f103dfe8374e995a95b44f7a001befc2",
+    "revision": "86f917df56cabeb0b575f255f0bc5da7",
     "url": "/cut-flowers/index.html"
   },
   {
-    "revision": "524e20955cb447f3c880",
+    "revision": "01e6a9f184d007522914",
     "url": "/cut-flowers/static/css/main.640a29d6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cut-flowers/static/js/2.5c620afe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "524e20955cb447f3c880",
-    "url": "/cut-flowers/static/js/main.30ef6628.chunk.js"
+    "revision": "01e6a9f184d007522914",
+    "url": "/cut-flowers/static/js/main.6cfc6edc.chunk.js"
   },
   {
     "revision": "df987ab8fc3bc4c77b04",
